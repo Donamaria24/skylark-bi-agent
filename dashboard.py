@@ -35,7 +35,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://skylark-bi-agent-ozh9.onrender.com"
 
 # ===============================
 # FETCH DATA
